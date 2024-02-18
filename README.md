@@ -19,8 +19,9 @@ To this end, we have developed a baby product recommendation system using a data
 
 ## Exploratory Data Analysis
 ![image](https://github.com/xwildgoose/baby-product-analysis/assets/77710802/8a61bd23-ec1c-4d70-845e-16ca3709a8dc)
+> The chart presents a clear correlation between review counts and average ratings, revealing a noteworthy trend: products with higher ratings tend to have a greater number of reviews.
 
-In our exploratory data analysis, we conducted a detailed review of product ratings and their corresponding review counts, as visualized in the scatter plot. The chart presents a clear correlation between review counts and average ratings, revealing a noteworthy trend: products with higher ratings tend to have a greater number of reviews.
+In our exploratory data analysis, we conducted a detailed review of product ratings and their corresponding review counts, as visualized in the scatter plot in Python.
 
 This trend could suggest that customer satisfaction, as reflected in higher product ratings, may encourage more customers to submit reviews. The higher the satisfaction, the more likely customers are to engage with the product by leaving feedback. This engagement is a key factor in our Customer Relationship Management (CRM) strategy, as it emphasizes the importance of customer interaction and satisfaction in driving business success.
 
@@ -29,6 +30,7 @@ The analysis of the Amazon dataset, as depicted in the scatter plot, supports ou
 ## Social Media Hastag Analysis
 
 ![babyhastags](https://github.com/xwildgoose/baby-product-analysis/assets/77710802/14f68865-184b-4d95-ab5e-9125801f57af)
+> Social Media Hastag Trends
 
 Our analysis of Instagram hashtag trends demonstrates how data-driven insights can refine marketing strategies and enhance customer experiences. We've identified key areas where data from social media can optimize campaigns and improve customer relations, with a particular focus on hashtag segmentation.
 
