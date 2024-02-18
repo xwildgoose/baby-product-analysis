@@ -25,3 +25,16 @@ In our exploratory data analysis, we conducted a detailed review of product rati
 This trend could suggest that customer satisfaction, as reflected in higher product ratings, may encourage more customers to submit reviews. The higher the satisfaction, the more likely customers are to engage with the product by leaving feedback. This engagement is a key factor in our Customer Relationship Management (CRM) strategy, as it emphasizes the importance of customer interaction and satisfaction in driving business success.
 
 The analysis of the Amazon dataset, as depicted in the scatter plot, supports our goal of increasing customer satisfaction. By focusing on products that not only meet but exceed customer expectations, we can improve customer loyalty and, as a result, drive higher sales. Products that achieve high ratings and attract a higher review count are indicative of successful customer engagement. Incorporating these insights into our CRM approach, especially in the context of our Baby Product Recommendation System, allows us to better support parents and caregivers, tailoring recommendations to feature products that are most likely to satisfy and delight our customers.
+
+##Social Media Hastag Analysis
+
+![babyhastags](https://github.com/xwildgoose/baby-product-analysis/assets/77710802/14f68865-184b-4d95-ab5e-9125801f57af)
+
+Our analysis of Instagram hashtag trends demonstrates how data-driven insights can refine marketing strategies and enhance customer experiences. We've identified key areas where data from social media can optimize campaigns and improve customer relations, with a particular focus on hashtag segmentation.
+
+By analyzing popular hashtags, we can pinpoint what resonates with our target audience. “#ParentingTips” emerged as the most prevalent tag, indicating a high demand for shared knowledge and advice among parents. This insight guides us to create content that supports and engages this community actively seeking guidance.
+
+The importance of social media in marketing is undeniable. It fosters customer engagement, increases brand visibility, and improves service. Our findings underscore the role of targeted content in boosting customer satisfaction and loyalty, key components in driving sales and reinforcing our CRM strategy.
+
+The strategic use of hashtag trends on social media platforms like Instagram can significantly impact customer relationship management and business growth, by tailoring content and interactions to meet the specific needs and interests of parents and caregivers.
+
