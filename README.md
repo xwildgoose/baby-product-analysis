@@ -40,3 +40,9 @@ The importance of social media in marketing is undeniable. It fosters customer e
 
 The strategic use of hashtag trends on social media platforms like Instagram can significantly impact customer relationship management and business growth, by tailoring content and interactions to meet the specific needs and interests of parents and caregivers.
 
+Baby Products Recommendation System
+![babydashscreenshot](https://github.com/xwildgoose/baby-product-analysis/assets/77710802/c476edd9-d0dc-4867-adae-439bfcabb0d8)
+
+
+
+
